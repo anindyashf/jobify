@@ -13,6 +13,7 @@ import JobList from "./components/JobList";
 import CreateJob from "./components/CreateJob";
 import ViewJob from "./components/ViewJob";
 import EditJob from "./components/EditJob";
+import NotFound from "./pages/NotFound";
 
 function App() {
   return (
